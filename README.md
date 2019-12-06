@@ -135,7 +135,6 @@ To delete a task, click on the delete icon available in the Actions column of a 
 The action buttons are self-explanatory. Check with us,if you need any help on this.
 
 6.  ### How to mark a task as completed?
-    
 
 Click the done button available in the Actions column.
 
@@ -145,7 +144,8 @@ Click the done button available in the Actions column.
 	3. A copy of task should be moved to “Completed” tab.
 
 8.  ### How to mark a task as pending?
-	1. Click the re-open button available in the Actions column.
+
+Click the re-open button available in the Actions column.
 
 9.  ### What happens when a user reopen a task?
     
