@@ -1,18 +1,24 @@
 # system-test
 Sureify - Front end system test
 
-# Instructions
+# General Instructions
 
-1.  The following section contains a detailed text on what you need to do as part of this system test.
+1. The following section contains a detailed text on what you need to do as part of this system test.
     
-2.  Read each section carefully, even if it takes 10 minutes to read.
+2. Read each section carefully, do not skip any section. As part of details, we have given the acceptance criteria as well.
     
-3.  If at any point, you feel like the requirement is not clear, call one of us and let us know your concern. Try not to speculate, each of us think differently.
-    
-4.  Create a repository in your Github account and add the link against your name in this sheet.
-    
-5.    
-    
+3. If at any point, you feel like the requirement is not clear, call one of us and let us know your concern. Try not to speculate, each of us think differently.
+4. Ideally we will receive notifications when you raise a PR and assign us as code reviewers, but if you feel we haven't acknowledged it, call one of us us and let us know.
+
+# Code submission
+1. Fork this repository [see the fork icon on the top right corner of this page].
+2. Add regular commits and regular pushes to your forked repository.
+3. Once you are done, raise a pull request and assign following people as code reviewers.
+- jayendrasharan
+- wasib-sureify
+- guttinasaibabu
+- vijjuworld
+
 
 # A Todo App
 
