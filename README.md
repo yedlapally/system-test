@@ -13,6 +13,7 @@ Sureify - Front end system test
 # Code submission
 1. Fork this repository [see the fork icon on the top right corner of this page].
 2. Add regular commits and regular pushes to your forked repository.
+3. All the requirements i.e., among all the **Must Haves** and any extra features added **must be** mentioned in your          README.md file. Other wise    your pull request **will not be reviewed /    accepted.**
 3. Once you are done, raise a pull request against `codes` branch and assign following people as code reviewers.
 - jayendrasharan
 - wasib-sureify
