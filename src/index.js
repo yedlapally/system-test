@@ -3,11 +3,22 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import Reducer from './store/reducer';
+import { applyMiddleware, createStore ,compose} from 'redux';
+import thunk from 'redux-thunk';
+import { Provider } from 'react-redux'
+import 'bootstrap/dist/css/bootstrap.css';
+import './fontawesome';
+
+const composer = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
+const store = createStore(Reducer, composer(applyMiddleware(thunk)));
 
 ReactDOM.render(
+  <Provider store={store}>
   <React.StrictMode>
     <App />
-  </React.StrictMode>,
+  </React.StrictMode>
+  </Provider>,
   document.getElementById('root')
 );
 
